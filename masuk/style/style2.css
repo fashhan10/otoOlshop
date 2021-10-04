@@ -1,0 +1,88 @@
+.bck p{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.title{
+	margin-top: -2%;
+	margin-left: 2%;
+}
+
+.title h3{
+	color: #DD9E40;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 46px;
+}
+
+.desc {
+	margin-top: -2%;
+	margin-left: 2%;
+}
+
+.desc p{
+	font-size: 18px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+form{
+	margin-left: 2%;
+}
+
+.nama label{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: normal;
+}
+
+.nama input{
+	margin-top: 2px;
+}
+
+.usrnm{
+	margin-top: 2%;
+}
+
+.usrnm label{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: normal	
+}
+
+.eml{
+	margin-top: 2%;
+}
+
+.eml label{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: normal	
+}
+
+.pswd{
+	margin-top: 2%;
+}
+
+.pswd label{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: normal	
+}
+
+.subm{
+	margin-top: 10px;
+}
+
+.subm input{
+	background-color: #DD9E40;
+	color: white;
+	border-radius: 2px;
+	border: 2px solid #DD9E40;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.footer{
+	margin-left: 2%;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+/* mobile display */
+@media screen and (max-width: 576px) {
+	.title{
+		margin-left: 50%;
+	}
+}
